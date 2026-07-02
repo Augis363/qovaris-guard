@@ -23,7 +23,7 @@ LangChain is **documentation only**.
    frontmatter present, code blocks runnable, Mintlify components valid.
 6. Open the PR against `langchain-ai/docs` `main`. Note in the description that
    the package is published on PyPI as `qovaris` and links to
-   https://github.com/Augis363/qovaris-guard.
+   https://github.com/qovaris-ai/qovaris-guard.
 
 ## Review checklist LangChain applies
 

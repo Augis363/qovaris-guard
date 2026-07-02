@@ -76,9 +76,9 @@ test_integration = [
 
 [project.urls]
 Homepage = "https://qovaris.ai"
-Documentation = "https://github.com/Augis363/qovaris-guard#readme"
-Repository = "https://github.com/Augis363/qovaris-guard"
-Issues = "https://github.com/Augis363/qovaris-guard/issues"
+Documentation = "https://github.com/qovaris-ai/qovaris-guard#readme"
+Repository = "https://github.com/qovaris-ai/qovaris-guard"
+Issues = "https://github.com/qovaris-ai/qovaris-guard/issues"
 
 [tool.setuptools.packages.find]
 # The importable package lives next to this file as ``qovaris/``.

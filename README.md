@@ -87,7 +87,7 @@ pip install "qovaris[dev]"          # contributing / running the test suite
 Install from source (for local development):
 
 ```bash
-git clone https://github.com/Augis363/qovaris-guard
+git clone https://github.com/qovaris-ai/qovaris-guard
 pip install -e "./qovaris[dev]"
 ```
 
